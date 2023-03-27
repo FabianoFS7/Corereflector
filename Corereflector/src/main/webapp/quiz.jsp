@@ -6,6 +6,7 @@
 <meta charset="ISO-8859-1">
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="css/progressbar.css">
+
 <title>Destabilisierung</title>
 </head>
 <body>
@@ -105,7 +106,7 @@
 	      </tr>
 	            <tr>
 	        <td>Ich beurteile kritisch einzelne für mich relevante Textpassagen in Bezug auf Logik, Wahrheit oder Vollständigkeit</td>
-	        <td><input type="radio" name="q5" value="1"></td>
+	        <td><input type="radio" name="q5" value="1" ></td>
 	        <td><input type="radio" name="q5" value="2"></td>
 	        <td><input type="radio" name="q5" value="3"></td>
 	        <td><input type="radio" name="q5" value="4"></td>

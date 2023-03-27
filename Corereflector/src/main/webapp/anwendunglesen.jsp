@@ -48,5 +48,15 @@
     </div>
   </div>
 </div>
+<h3>Nun soll die Lesetechnik auf ein konkretes Beispiel angewendet werden. Bei dem Text handelt es sich um ein Paper aus der DELFI 2022</h3>
+<h4>Das Paper heißt: DO you trust the Bot? - Entwicklung und Evaluation eines Conversational Agents zur Klassifikation von Lernstilen</h4>
+Klicke Kier um zum Text zu gelangen:<br>
+<a href="pdf/DELFI_2022_016.pdf" target="_blank">PDF öffnen</a><br>
+Klicke auf Weiter, um mit dem Paper zu starten<br>
+			<button onclick="window.location.href='lesetechnik.jsp'">Zurück</button>
+			<button onclick="window.location.href='skimming.jsp'">Weiter</button>
+			
+
+
 </body>
 </html>
